@@ -1,9 +1,8 @@
- 	package Looping;
+package Loop;
 
-public class nestedforloop {
-	
- 
-	public static void main(String[] args) {
+public class LoopingPattern {
+
+public static void main(String[] args) {
 		
 		int i;
 		int j;
@@ -21,6 +20,6 @@ public class nestedforloop {
 
 
 	}
-	}
+}
 	
 
